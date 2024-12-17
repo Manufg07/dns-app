@@ -29,14 +29,14 @@ const Navbar = () => {
         {/* Navigation Links */}
         <ul className="flex space-x-6">
           <li>
-            <Link href="/home">
+            <Link href="/">
               <p className="cursor-pointer hover:text-blue-500 transition-colors">
                 HOME
               </p>
             </Link>
           </li>
           <li>
-            <Link href="/menu">
+            <Link href="/Menu">
               <p className="cursor-pointer hover:text-blue-500 transition-colors">
                 MENU
               </p>
